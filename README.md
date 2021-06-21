@@ -1,1 +1,2 @@
-# PRO-C-20-BY-ABHINAV
+# collisionAlgorithm
+Algorithm to detect collision between two objects
